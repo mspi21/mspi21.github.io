@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome!
+
+**This website is a work in progress.** If you're a CTU student, you're probably interested in [this](/teacher). Otherwise, maybe check out my [blog](/blog)? See you around!

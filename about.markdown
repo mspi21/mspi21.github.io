@@ -2,6 +2,7 @@
 layout: page
 title: whoami
 permalink: /whoami/
+show_in_nav: true
 ---
 
 Who am I? I'm mspi.

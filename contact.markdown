@@ -3,6 +3,7 @@ layout: page
 title: contact
 display-title: contact me
 permalink: /contact/
+show_in_nav: true
 ---
 
 | Contact Option | Details |

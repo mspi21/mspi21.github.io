@@ -3,6 +3,7 @@ layout: page
 title: teacher
 display-title: informace pro studenty
 permalink: /teacher/
+show_in_nav: true
 ---
 
 For the english variant of PA1, please click [here](#bie-pa121).

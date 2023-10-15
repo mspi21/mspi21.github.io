@@ -3,6 +3,7 @@ layout: page
 title: cv
 display-title: Curriculum Vitae
 permalink: /cv/
+show_in_nav: true
 ---
 
 ## Work Experience

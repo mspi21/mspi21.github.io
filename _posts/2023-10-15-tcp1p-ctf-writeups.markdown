@@ -5,13 +5,13 @@ date:   2023-10-15 23:03:20 +0200
 categories: blog security ctf
 ---
 
-This weekend, some friends and I have taken part in a [CTF](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04) and despite not giving it our full attention because of school and other stuff, we managed to solve a couple of the easier challenges.
+This weekend, some friends and I have taken part in a [CTF](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04){:target="_blank"}. Despite not giving it our full attention because of school and other stuff, we managed to solve a couple of the easier challenges.
 
-Incidentally, this was also the first CTF I joined as part of a team and the first time I could share my knowledge and my methods with others, which is commonly done through the medium known as "write-ups". A write-up is esentially nothing more than an explanation of how a challenge was (or could be) successfully solved by a participant, allowing contestants who were not successful in solving the task to learn something new and expand their arsenal of hacking skills.
+Incidentally, this was also the first CTF I joined as part of a team and the first time I could share my knowledge and my methods with others, which is commonly done through the medium known as "write-ups". A write-up is essentially nothing more than an explanation of how a challenge was (or could be) successfully solved by a participant, allowing contestants who were not successful in solving the task to learn something new and expand their arsenal of hacking skills.
 
 Although the challenges I solved were not hard and there will likely be many more (potentially better or more detailed) write-ups, I decided I might as well share them anyways, so if you're interested, keep reading.
 
-The CTF in question was the [2023 TCP1P CTF](https://ctf.tcp1p.com/), the challenges (or as TCP1P calls them, *games*) I solved were `Subject Encallment` in the Reverse Engineering category, `Bluffer Overflow` and `message` in the PWN category and `zipzipzip` and `Guess My Number` in the Misc category. I have not written a write-up for Subject Encallment and Bluffer Overflow, since I have demonstrated the exploitation in person during the CTF (the former is a really simple ELF reverse engineering task, the latter is an almost  buffer overflow exploitation challenge), and I will also not include a write-up for zipzipzip, since it is frankly quite trivial.
+The CTF in question was the [2023 TCP1P CTF](https://ctf.tcp1p.com/){:target="_blank"}, the challenges (or as TCP1P calls them, *games*) I solved were `Subject Encallment` in the Reverse Engineering category, `Bluffer Overflow` and `message` in the PWN category and `zipzipzip` and `Guess My Number` in the Misc category. I have not written a write-up for Subject Encallment and Bluffer Overflow, since I have demonstrated the exploitation in person during the CTF (the former is a really simple ELF reverse engineering task, the latter is an almost foolproof buffer overflow exploitation challenge), and I will also not include a write-up for zipzipzip, since it is frankly quite trivial.
 
 **Alright, let's get into it!**
 

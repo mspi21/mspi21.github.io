@@ -10,7 +10,7 @@ permalink: /cv/
 **T-mobile Česká republika, a.s. / Telekom Security** \| Ethical hacker \| 2023&ndash;present
   - Penetration testing of web applications and related software and infrastructure
 
-**FIT CTU in Prague** \| C/C++ Programming Tutor \| 2022&ndash;present
+**Department of Theoretical Computer Science, FIT CTU in Prague** \| C/C++ Programming Tutor \| 2022&ndash;present
   - Programming and Algorithmization 1 (C programming) practicals
   - Programming and Algorithmization 2 (C++ programming) practicals
 
@@ -23,7 +23,7 @@ permalink: /cv/
 
 **FIT CTU in Prague** \| Bachelor of Informatics \| 2021&ndash;2024
   - Specialization in **Information Security** + minor in **Computer Science**
-  - **Bachelor's thesis:** Secure utilization of open-source libraries
+  - **Bachelor's thesis:** Security assessment and secure utilization of open-source cryptographic libraries
   - **Finished courses include:** C and C++ Programming, Linear Algebra 1 & 2, Discrete Mathematics, Mathematical Analysis 1 & 2, Database Systems, Computer Networks, Automata and Grammars, Algorithms and Graphs 1 & 2, Computer Architectures 1 & 2, Secure Code, Cryptography and Security, Operating Systems, Programming Languages and Compilers, Law and Informatics.
   - **Ongoing courses include:** Reverse Engineering, Applied Network Security, Hardware Security, Basics of System Security, Programming Paradigms, Quantum Algorithms
 
@@ -59,9 +59,6 @@ permalink: /cv/
   - Participant in 3-month high school exchange programme in Berlin, Germany in 2019
   - Organization and facilitation of orientation camps for exchange students
   - Management and coordination of the Prague volunteer chapter (2020&ndash;2021)
-
-**Eurocamp** \| Czech-English Summer Camps for Children \| 2020&ndash;2022
-  - Group leader and English tutor
 
 **FIT++** \| University Student Union \| 2021&ndash;present
   - Organizing events for new students

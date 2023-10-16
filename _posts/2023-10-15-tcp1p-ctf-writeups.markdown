@@ -415,7 +415,7 @@ Therefore, our 'equation' looks like this:
 x ^ (rand(seed = 0x539) + 0x1467f3) = 0xcafebabe
 ```
 
-We will take advantage of the fact that the `xor` operation is an [involution](https://en.wikipedia.org/wiki/Involution) and apply `^ (rand(seed = 0x539) + 0x1467f3)` to both sides of the equation. That gives us
+We will take advantage of the fact that the `xor` operation is an [involution](https://en.m.wikipedia.org/wiki/Involution_(mathematics)){:target="_blank"} and apply `^ (rand(seed = 0x539) + 0x1467f3)` to both sides of the equation. That gives us
 
 ```c
 x ^ (rand(seed = 0x539) + 0x1467f3) ^ (rand(seed = 0x539) + 0x1467f3) = 0xcafebabe ^ (rand(seed = 0x539) + 0x1467f3)
